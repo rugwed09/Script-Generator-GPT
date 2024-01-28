@@ -33,6 +33,6 @@ A big shoutout 📢 to the contributors of chromadb, langchain, and other depend
 
 ---
 
-For more information or support, please contact me at [support@email.com](rugwedpimpale@gmail.com.
+For more information or support, please contact me at rugwedpimpale@gmail.com.
 
 Happy scripting with Script Generator GPT! 🎉🚀
