@@ -37,6 +37,6 @@ Special thanks to all contributors of chromadb, langchain, and other dependencie
 
 ---
 
-Need more information or support? Contact us at rugwedpimpale@gmail.com.
+Need more information or support? Contact us at [Contact Us]rugwedpimpale@gmail.com.
 
 Enjoy creating with Script Generator GPT! 🎉🚀
