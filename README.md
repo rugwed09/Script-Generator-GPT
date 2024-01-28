@@ -17,10 +17,12 @@ Welcome to the Script Generator GPT! This innovative tool 🛠️ leverages the 
 
 To start using Script Generator GPT:
 1. Download all the files and run all the required dependancies.
-2. Deploy it on Streamlit 
-3. Follow the on-screen instructions to input your title or query 🖊️.
-4. The script will automatically generate a title (if not provided) and the corresponding script 📜.
-5. Access the history tab to review past searches and scripts 📚.
+2. Generate your API key from OpenAI website. (Important: API keys are different for everyone. DOn't share it with anyone)
+3. Add your API Key from OPenAI website and paste the code in apikey.py
+4. Deploy it on Streamlit 
+5. Follow the on-screen instructions to input your title or query 🖊️.
+6. The script will automatically generate a title (if not provided) and the corresponding script 📜.
+7. Access the history tab to review past searches and scripts 📚.
 
 ## Contributing 👐
 
