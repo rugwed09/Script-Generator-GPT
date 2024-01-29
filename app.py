@@ -7,7 +7,7 @@ from langchain.chains import LLMChain
 from langchain.memory import ConversationBufferMemory
 
 # Set your OpenAI API Key
-apikey = "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"  # Replace with your actual API key
+apikey = "ENTER YOUR API KEY"  # Replace with your actual API key
 os.environ['OPENAI_API_KEY'] = apikey
 
 # App framework
