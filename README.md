@@ -2,7 +2,7 @@
 
 Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating creative titles and scripts! This tool is perfect for creating content for YouTube videos 📹, articles 📰, presentations, and more. Built with Python 🐍 and integrating powerful dependencies like chromadb and langchain, it offers an efficient and user-friendly experience.
 
-## Features 🚀
+## Features 🚀  
 
 - **Automatic Title and Script Generation:** Effortlessly create unique titles 🏷️ and scripts 📝 tailored to your needs.
 - **Chromadb Integration:** Experience enhanced document embedding and query capabilities with vector database support, optimized for Python 3.10 on Windows. (Works without optimization on Mac)
