@@ -19,7 +19,7 @@ Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating cr
 - Screenshot after searching a prompt
 ![Web capture_29-1-2024_04217_localhost](https://github.com/rugwed09/Script-Generator-GPT-/assets/51815382/04b2b200-6748-49d6-a67a-d08afde4c556)
 
-- Screenshot of the operations that goes in the backend
+- Screenshot of the operations that goes in the backend         
 ![Screenshot 2024-01-29 004259](https://github.com/rugwed09/Script-Generator-GPT-/assets/51815382/a6a6ae8d-ea6f-4971-a127-8da4e9fc565b)
 
 
