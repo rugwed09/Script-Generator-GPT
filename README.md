@@ -26,7 +26,7 @@ Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating cr
 
 ## Getting Started 🛠️
 
-To begin using Script Generator GPT:
+To begin using Script Generator GPT:      
           
 1. **Download and Set Up:** Obtain all necessary files and install required dependencies.
 2. **Generate OpenAI API Key:** Visit the OpenAI website to create your unique API key 🔑. (Important: Keep your API key confidential and do not share it.)
