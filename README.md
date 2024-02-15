@@ -16,7 +16,7 @@ Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating cr
 - Screenshot of the Landing Page       
 ![Web capture_29-1-2024_0457_localhost](https://github.com/rugwed09/Script-Generator-GPT-/assets/51815382/b3830fb3-ea91-45d9-8660-2505a7cdfcc3)
   
-- Screenshot after searching a prompt
+- Screenshot after searching a prompt   
 ![Web capture_29-1-2024_04217_localhost](https://github.com/rugwed09/Script-Generator-GPT-/assets/51815382/04b2b200-6748-49d6-a67a-d08afde4c556)
 
 - Screenshot of the operations that goes in the backend         
