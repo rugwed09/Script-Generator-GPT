@@ -9,7 +9,7 @@ Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating cr
 - **Prompt Templates:** Leverage langchain's AI-powered prompt templates for dynamic, context-aware outputs 🤖.
 - **Chaining Mechanism:** Chain outputs for improved contextual relevance and script depth 🔄.
 - **Sequential Chain Integration:** Utilize `SimpleSequentialChain` and `SequentialChain` for seamless interaction and output display 📊.
-- **Memory Feature:** Keep track of your chat history and search queries with `ConversationBufferMemory` 🧵.      
+- **Memory Feature:** Keep track of your chat history and search queries with `ConversationBufferMemory` 🧵.       
 - **Wikipedia Search:** Enrich your content with reliable information sourced from Wikipedia 🌐.
 - **History Tab:** Easily review and manage your past searches and scripts 🕒. 
 
