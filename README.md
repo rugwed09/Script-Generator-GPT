@@ -24,7 +24,7 @@ Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating cr
 
 
 
-## Getting Started 🛠️
+## Getting Started 🛠️     
 
 To begin using Script Generator GPT:      
           
