@@ -11,7 +11,7 @@ Welcome to Script Generator GPT, a cutting-edge AI-driven tool for generating cr
 - **Sequential Chain Integration:** Utilize `SimpleSequentialChain` and `SequentialChain` for seamless interaction and output display 📊.
 - **Memory Feature:** Keep track of your chat history and search queries with `ConversationBufferMemory` 🧵.      
 - **Wikipedia Search:** Enrich your content with reliable information sourced from Wikipedia 🌐.
-- **History Tab:** Easily review and manage your past searches and scripts 🕒.
+- **History Tab:** Easily review and manage your past searches and scripts 🕒. 
 
 - Screenshot of the Landing Page       
 ![Web capture_29-1-2024_0457_localhost](https://github.com/rugwed09/Script-Generator-GPT-/assets/51815382/b3830fb3-ea91-45d9-8660-2505a7cdfcc3)
